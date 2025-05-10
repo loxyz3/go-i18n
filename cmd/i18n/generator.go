@@ -4,8 +4,8 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/BiaoLiu/go-i18n/cmd/i18n/internal/generator"
-	"github.com/BiaoLiu/go-i18n/cmd/i18n/internal/utils"
+	"github.com/loxyz3/go-i18n/cmd/i18n/internal/generator"
+	"github.com/loxyz3/go-i18n/cmd/i18n/internal/utils"
 	"github.com/spf13/cobra"
 )
 

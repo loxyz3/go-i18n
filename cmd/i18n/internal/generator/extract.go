@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/BiaoLiu/go-i18n/cmd/i18n/internal/utils"
+	"github.com/loxyz3/go-i18n/cmd/i18n/internal/utils"
 )
 
 func Extract(extractPath string, outputPath string) error {

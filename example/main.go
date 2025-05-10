@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/BiaoLiu/go-i18n"
-	goi18n "github.com/BiaoLiu/go-i18n/example/pkg/i18n"
+	"github.com/loxyz3/go-i18n"
+	goi18n "github.com/loxyz3/go-i18n/example/pkg/i18n"
 	"golang.org/x/text/language"
 )
 

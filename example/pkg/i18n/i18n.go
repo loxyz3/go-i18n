@@ -1,7 +1,7 @@
 package i18n
 
 import (
-	"github.com/BiaoLiu/go-i18n"
+	"github.com/loxyz3/go-i18n"
 	"golang.org/x/text/language"
 )
 

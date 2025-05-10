@@ -6,13 +6,13 @@
 ## 安装
 
 ```
-go get -u github.com/BiaoLiu/go-i18n/cmd/i18n
+go get -u github.com/loxyz3/go-i18n/cmd/i18n
 ```
 
 CLI工具：
 
 ```
-go install github.com/BiaoLiu/go-i18n/cmd/i18n@latest
+go install github.com/loxyz3/go-i18n/cmd/i18n@latest
 ```
 
 ## 使用

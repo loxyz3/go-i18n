@@ -1,4 +1,4 @@
-module github.com/BiaoLiu/go-i18n/cmd/i18n
+module github.com/loxyz3/go-i18n/cmd/i18n
 
 go 1.19
 
